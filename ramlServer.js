@@ -6,7 +6,7 @@
 //     For all details and documentation:
 //     https://github.com/farolfo/raml-server
 
-var ramlMocker = require('raml-mocker'),
+var ramlMocker = require('raml-1-mocker'),
     _ = require('underscore'),
     jsonServer = require('json-server'),
     argv = require('yargs').argv;;
