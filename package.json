@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "json-server": "^0.7.11",
-    "raml-mocker": "^0.2.6",
+    "raml-1-mocker": "^0.1.2",
     "underscore": "^1.8.3",
     "yargs" : "^4.7.1"
   },
@@ -19,7 +19,7 @@
   "homepage": "https://github.com/farolfo/raml-server",
   "license": "MIT",
   "bin": {
-    "raml-server": "ramlServer.js"
+    "raml-1-server": "ramlServer.js"
   },
   "repository": {
     "type": "git",
