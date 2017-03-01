@@ -12,7 +12,7 @@ RAML Server is tested under node v0.12. If you don't have node installed yet, do
 If you have node installed, run
 
 ```
-$ npm install -g raml-server
+$ npm install -g raml-1-server
 ```
 
 ### Usage
@@ -20,7 +20,7 @@ $ npm install -g raml-server
 Start a server based on the ```exampleApi.raml``` file
 
 ```
-$ raml-server exampleApi.raml
+$ raml-1-server exampleApi.raml
 ```
 
 And hit ```localhost:3000/songs```. Also, later POSTs to /songs on the server will be saved!
