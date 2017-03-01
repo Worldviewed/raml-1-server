@@ -1,13 +1,15 @@
 {
-  "name": "raml-server",
+  "name": "raml-1-server",
   "description": "Run a server based on RAML files .. zero coding",
   "version": "0.1.6",
   "author": {
     "name": "Franco Arolfo",
+    "email": "francoarolfo@hotmail.com",
+    "name": "Worldviewed",
     "email": "francoarolfo@hotmail.com"
   },
   "bugs": {
-    "url": "https://github.com/farolfo/raml-server/issues"
+    "url": "https://github.com/Worldviewed/raml-1-server/issues"
   },
   "dependencies": {
     "json-server": "^0.7.11",
@@ -16,13 +18,13 @@
     "yargs" : "^4.7.1"
   },
   "devDependencies": {},
-  "homepage": "https://github.com/farolfo/raml-server",
+  "homepage": "https://github.com/Worldviewed/raml-1-server",
   "license": "MIT",
   "bin": {
     "raml-1-server": "ramlServer.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/farolfo/raml-server.git"
+    "url": "git://github.com/Worldviewed/raml-1-server.git"
   }
 }
